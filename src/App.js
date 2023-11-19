@@ -9,6 +9,7 @@ import Error from './components/Error';
 import Grid from './components/Grid';
 import AboutUs from './components/AboutUs';
 import Footer from './components/Footer';
+import SchoolRegistration from './components/SchoolRegistration'
 
 function App() {
 

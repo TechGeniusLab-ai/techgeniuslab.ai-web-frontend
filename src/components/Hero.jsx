@@ -30,7 +30,8 @@ const Hero = () => {
             }}
           />
         </div>
-        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <div className="mx-auto max-w-6xl py-32 sm:py-60
+         lg:py-56">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
               Announcing our next batch of Workshops.{' '}
@@ -41,8 +42,8 @@ const Hero = () => {
             </div>
           </div>
           <div className="text-center">
-            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-              Building New Generations,<br/> Creating Connections
+            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl py-2">
+              Unlocking the Potential of Learners<br/> <h1 className='py-4'>Bringing New Era of Education</h1>
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
             Empowering the Next Generation of Innovators: Hands-on Workshops to Ignite the Passion for Technology in Budding Tech Enthusiasts
