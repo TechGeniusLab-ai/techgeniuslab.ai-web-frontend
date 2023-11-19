@@ -1,5 +1,7 @@
 import React from 'react'
 import Error from './Error'
+import p3 from '../assets/p3.jpeg'
+import a1 from '../assets/A1.gif'
 const Cta = () => {
   return (
     <div className="bg-white">
@@ -42,7 +44,7 @@ const Cta = () => {
         <div className="relative mt-16 h-80 lg:mt-8">
           <img
             className="absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
-            src="https://tailwindui.com/img/component-images/dark-project-app-screenshot.png"
+            src={p3}
             alt="App screenshot"
             width={1824}
             height={1080}
